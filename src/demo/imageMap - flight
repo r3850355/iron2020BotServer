@@ -1,0 +1,21 @@
+{
+  "type": "imagemap",
+  "baseUrl": "https://c989ee6a.ngrok.io/statics/flight",
+  "altText": "航班資訊",
+  "baseSize": {
+    "width": 1040,
+    "height": 800
+  },
+  "actions": [
+    {
+      "type": "message",
+      "area": {
+        "x": 584,
+        "y": 613,
+        "width": 456,
+        "height": 187
+      },
+      "text": "航班資訊"
+    }
+  ]
+}
